@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Emanuel Córdoba Lion
 
-<!--
-**EmanuelCordobaLion/EmanuelCordobaLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer | Java & Spring Boot | Angular
 
-Here are some ideas to get you started:
+🎓 Técnico Superior Universitario en Programación – UTN  
+🚀 Looking for my first professional opportunity as a Junior Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- JPA / Hibernate
+- REST APIs
+- Microservices (basic)
+
+**Frontend**
+- Angular
+- TypeScript
+
+**Databases**
+- MySQL
+- SQL Server
+- SQL query design and optimization
+
+**DevOps & Tools**
+- Docker
+- Git
+- GitHub
+
+**Testing**
+- JUnit
+- Mockito
+- Unit and integration testing
+
+**Architecture & Methodologies**
+- Agile development (Scrum)
+- Microservices architecture (basic)
+
+**AI-Assisted Development**
+- Code review, optimization and continuous improvement using GenAI tools
+
+**Collaboration & Productivity**
+- Jira
+- Taiga
+- Lucidchart
+- dbdiagram.io
+- Cloudinary
+
+---
+
+## 📌 About Me
+I am a junior full stack developer focused on continuous learning and professional growth.  
+I have experience working on academic projects, both individual and team-based, applying clean code practices, RESTful architectures and collaborative workflows.
+
+---
+
+## 📂 Featured Projects
+*(Coming soon — academic and full stack projects developed during my studies at UTN)*
+
+---
+
+## 📫 Contact
+- LinkedIn: *(add link when ready)*
+- GitHub: You are here 🙂
