@@ -56,14 +56,3 @@ Junior Full Stack Developer | Java & Spring Boot | Angular
 ## 📌 About Me
 I am a junior full stack developer focused on continuous learning and professional growth.  
 I have experience working on academic projects, both individual and team-based, applying clean code practices, RESTful architectures and collaborative workflows.
-
----
-
-## 📂 Featured Projects
-*(Coming soon — academic and full stack projects developed during my studies at UTN)*
-
----
-
-## 📫 Contact
-- LinkedIn: *(add link when ready)*
-- GitHub: You are here 🙂
