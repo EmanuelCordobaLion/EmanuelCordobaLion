@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Emanuel Córdoba Lion
 
-Junior Full Stack Developer | Java & Spring Boot | Angular
+Full Stack Developer | Java & Spring Boot | Angular
 
 🎓 Técnico Superior Universitario en Programación – UTN  
-🚀 Looking for my first professional opportunity as a Junior Developer  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -14,6 +12,9 @@ Junior Full Stack Developer | Java & Spring Boot | Angular
 - Spring Boot
 - Spring Security
 - JWT
+- NestJS
+- GraphQL
+- Prisma
 - JPA / Hibernate
 - REST APIs
 - Microservices (basic)
@@ -23,6 +24,7 @@ Junior Full Stack Developer | Java & Spring Boot | Angular
 - TypeScript
 
 **Databases**
+- PostgreSQL
 - MySQL
 - SQL Server
 - SQL query design and optimization
@@ -54,5 +56,5 @@ Junior Full Stack Developer | Java & Spring Boot | Angular
 ---
 
 ## 📌 About Me
-I am a junior full stack developer focused on continuous learning and professional growth.  
+I am a full stack developer focused on continuous learning and professional growth.  
 I have experience working on academic projects, both individual and team-based, applying clean code practices, RESTful architectures and collaborative workflows.
